@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Jeffrey van Aswegen, Douglas Anderson"]
   s.email       = ["jeffmess@gmail.com, i.am.douglas.anderson@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{A gem which wraps the TPN API -- www.tpn.co.za}
-  s.description = %q{TODO: Perform queries through tpn}
+  s.summary     = %q{A simple API to the TPN web service -- www.tpn.co.za}
+  s.description = %q{A simple API to the TPN web service -- www.tpn.co.za}
 
   s.rubyforge_project = "tpn"
 
